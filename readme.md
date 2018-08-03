@@ -33,8 +33,15 @@ Ini adalah panduan tentang development stack dan perangkat saja yang perlu dipas
 ## Mobile
 
 ### Development Stacks
++ Android Minimal SDK Support 16
++ Android Target SDK Support --> Latest SDK
++ Kotlin
++ Use Programming Pattern [MVVM](https://github.com/pt-dot/DOT-Kotlin-Boilerplate)
++ [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/)
 
 ### Tools & IDE
++ [Android Studio](https://developer.android.com/studio/)
++ [Genymotion](https://www.genymotion.com/)
 
 ## Quality Assurance Engineering
 
