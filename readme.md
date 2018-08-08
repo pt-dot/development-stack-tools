@@ -21,7 +21,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 
 ---
 
-## Backend & Frontend
+## Backend dan Frontend
 
 ### Development Stacks
 
@@ -35,7 +35,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Putty](https://www.putty.org/) - ssh client windows
 
 #### Frontend
-+ [Webpack](https://webpack.js.org/) - Static modele bundler
++ [Webpack](https://webpack.js.org/) - Static module bundler
 + [Bower](https://bower.io/) - web package manager
 + [Sass](https://sass-lang.com/), [Less](http://lesscss.org/) - CSS Preprocessor
 + [Vue CLI](https://github.com/vuejs/vue-cli) - Standard vue development tool
@@ -48,6 +48,8 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Nginx](https://www.nginx.com/) - Web server, load balancer, & reverse proxy
 + [Docker](https://docs.docker.com/)
 + [Laravel Homestead](https://laravel.com/docs/5.6/homestead) - Development environment yang berbasis vagrant untuk aplikasi PHP atau laravel
++ [Virtual Box](https://www.virtualbox.org/wiki/Downloads) - Virtual box dibutuhkan untuk host laravel homestead
++ [Vagrant](https://www.vagrantup.com/downloads.html) - Development environment untuk laravel homestead
 + [Laravel Valet](https://laravel.com/docs/5.6/valet) - Laravel environment khusus untuk Mac
 + [MongoDB Database](https://www.mongodb.com/) - NoSQL database
 + [Robomongo](https://robomongo.org/) - Native mongodb management
