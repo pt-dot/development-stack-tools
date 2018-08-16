@@ -103,7 +103,31 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 
 ### Development Stacks
 
++ [Postman](https://www.getpostman.com/) API Development & testing environment
++ [Newman](https://github.com/postmanlabs/newman) Automation for postman collection
++ [Codeception](https://codeception.com/) Automated test : unit, API, functional
++ [Laravel Dusk](https://github.com/laravel/dusk) Automated browser test for Laravel
++ [Selenium](https://www.seleniumhq.org/) Automated browser test
++ [Firebase Test Lab](https://firebase.google.com/docs/test-lab/) Mobile device testing
++ [Sentry.io](https://sentry.io/) Error reporting
++ [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/), [Lighthouse](https://developers.google.com/web/tools/lighthouse/) Page speed test
+
 ### Tools & IDE
+
++ [Postman Dekstop / Postman Chrome Extension](https://www.getpostman.com/)
++ [Katalon](https://www.katalon.com/)
++ [JMeter](https://jmeter.apache.org/)
++ [Sublime Text](https://www.sublimetext.com/)
++ [Jenkins](https://jenkins.io/)
+
+### Documents
+
++ User Story
++ Test Scenario / Test Case
++ Manual Book
++ UAT Documents
++ TSD
++ BSD
 
 ---
 
