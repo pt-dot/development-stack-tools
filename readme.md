@@ -18,7 +18,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [iTerm](https://www.iterm2.com/) - Terminal replacement untuk MacOS dan dapat diintegrasikan dengan [Z-Shell](https://ohmyz.sh/) agar lebih interaktif
 + [Homebrew](https://brew.sh/) - Package manager untuk macOS
 + [Spotify](https://www.spotify.com/id/) - Pemutar musik online (jangan lupa bahagia :D)
-
++ [Gitscrum](https://site.gitscrum.com) - Scrum / Agile Project management
 ---
 
 ## Backend dan Frontend
@@ -141,6 +141,9 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Draw.io](https://www.draw.io/) - online design untuk diagram
 + [Invision](https://www.invisionapp.com/) - Kolaborasi design
 + [Zeplin](https://zeplin.io/) - Kolaborasi asset design
++ [Figma](https://www.figma.com) - UI UX Design Toolkit (Free)
++ [Adobe XD](https://www.adobe.com/sea/products/xd.html) - UI UX Design Toolkit
++ [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html) - Design / Photo manipulation
 
 ---
 
