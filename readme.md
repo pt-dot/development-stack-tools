@@ -139,6 +139,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Adobe XD](https://www.adobe.com/sea/products/xd.html) - UI UX Design toolkit
 + [Balsamiq](https://balsamiq.com/) - Wireframing tools
 + [Draw.io](https://www.draw.io/) - online design untuk diagram
++ [miro](https://miro.com/) - visual collaboration platform (mindmap, agile, lean, customer journey map, dll)
 + [Invision](https://www.invisionapp.com/) - Kolaborasi design
 + [Zeplin](https://zeplin.io/) - Kolaborasi asset design
 + [Figma](https://www.figma.com) - UI UX Design Toolkit (Free)
