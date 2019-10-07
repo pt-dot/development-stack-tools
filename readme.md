@@ -97,6 +97,9 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Android Studio](https://developer.android.com/studio/)
 + [Genymotion](https://www.genymotion.com/)
 
+### Deployment
++ [Genymotion](https://www.genymotion.com/)
++ [deploygate](https://deploygate.com/)
 ---
 
 ## Quality Assurance Engineering
