@@ -92,6 +92,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + Kotlin
 + Use Programming Pattern [MVVM](https://github.com/pt-dot/DOT-Kotlin-Boilerplate)
 + [Android Architecture Components](https://developer.android.com/topic/libraries/architecture/)
++ [Flutter](https://flutter.dev)
 
 ### Tools & IDE (Android)
 + [Android Studio](https://developer.android.com/studio/)
