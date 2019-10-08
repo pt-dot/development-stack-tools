@@ -98,7 +98,6 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Genymotion](https://www.genymotion.com/)
 
 ### Deployment
-+ [Genymotion](https://www.genymotion.com/)
 + [deploygate](https://deploygate.com/)
 ---
 
@@ -148,6 +147,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Figma](https://www.figma.com) - UI UX Design Toolkit (Free)
 + [Adobe XD](https://www.adobe.com/sea/products/xd.html) - UI UX Design Toolkit
 + [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html) - Design / Photo manipulation
++ [overflow](https://overflow.io) - User flows 
 
 ---
 
