@@ -100,6 +100,8 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 
 ### Deployment
 + [deploygate](https://deploygate.com/)
++ [Fabric Fastlane](https://fabric.io/) Deployment for Mobile Platform, sub fitur of Fabric.io
+
 ---
 
 ## Quality Assurance Engineering
@@ -112,8 +114,11 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Laravel Dusk](https://github.com/laravel/dusk) Automated browser test for Laravel
 + [Selenium](https://www.seleniumhq.org/) Automated browser test
 + [Firebase Test Lab](https://firebase.google.com/docs/test-lab/) Mobile device testing
-+ [Sentry.io](https://sentry.io/) Error reporting
 + [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/), [Lighthouse](https://developers.google.com/web/tools/lighthouse/) Page speed test
+
+### Error Reporting
++ [Sentry.io](https://sentry.io/) Error reporting Web & Mobile
++ [Fabric Crashlytics](https://fabric.io/) Error reporting for Mobile Platform, sub fitur of Fabric.io
 
 ### Tools & IDE
 
