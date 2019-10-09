@@ -62,11 +62,20 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Sequel Pro](https://www.sequelpro.com/) - MySQL Database management for Mac
 + [PHP Coding Standards Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 + [Google Cloud SDK](https://cloud.google.com/sdk/) - Perangkat untuk mengelola Google Cloud Platform
++ [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](https://bitnami.com/stack/wamp/installer) - Windows local server
++ [DataGrip](https://www.jetbrains.com/datagrip/) - JetBrains Database IDE for SQL developers
++ [DBeaver](https://dbeaver.io/) - Free multi-platform database tool for developers
 
 ### Tools & IDE
 
-+ Free Editor: [Visual Studio Code](https://code.visualstudio.com/), [Sublime Text](https://www.sublimetext.com/) (Freemium), [vim](https://www.vim.org/)
-+ Non Free Editor: [PhpStorm](https://www.jetbrains.com/phpstorm/), [WebStorm](https://www.jetbrains.com/webstorm/)
++ Free Editor: 
+  + [Visual Studio Code](https://code.visualstudio.com/),
+  + [Sublime Text](https://www.sublimetext.com/) (Freemium), 
+  + [Vim](https://www.vim.org/)
+  + [Atom](https://atom.io/)
++ Non Free Editor: 
+  + [PhpStorm](https://www.jetbrains.com/phpstorm/)
+  + [WebStorm](https://www.jetbrains.com/webstorm/)
 
 ---
 
