@@ -46,7 +46,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 #### Opsional:
 
 + [Nginx](https://www.nginx.com/) - Web server, load balancer, & reverse proxy
-+ [Docker](https://docs.docker.com/)
++ [Docker](https://docs.docker.com/) (Windows, Mac, Linux) - The Modern Platform for High-Velocity Innovation
 + [Laravel Homestead](https://laravel.com/docs/5.6/homestead) - Development environment yang berbasis vagrant untuk aplikasi PHP atau laravel
 + [Virtual Box](https://www.virtualbox.org/wiki/Downloads) - Virtual box dibutuhkan untuk host laravel homestead
 + [Vagrant](https://www.vagrantup.com/downloads.html) - Development environment untuk laravel homestead
