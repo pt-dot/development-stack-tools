@@ -68,15 +68,16 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](https://bitnami.com/stack/wamp/installer) - Windows local server
 + [DataGrip](https://www.jetbrains.com/datagrip/) - JetBrains Database IDE for SQL developers
 + [DBeaver](https://dbeaver.io/) - Free multi-platform database tool for developers
++ [MailTrap](https://mailtrap.io/) - Safe Email Testing for Staging & Development
 
 ### Tools & IDE
 
-+ Free Editor: 
++ Free Editor:
   + [Visual Studio Code](https://code.visualstudio.com/),
-  + [Sublime Text](https://www.sublimetext.com/) (Freemium), 
+  + [Sublime Text](https://www.sublimetext.com/) (Freemium),
   + [Vim](https://www.vim.org/)
   + [Atom](https://atom.io/)
-+ Non Free Editor: 
++ Non Free Editor:
   + [PhpStorm](https://www.jetbrains.com/phpstorm/)
   + [WebStorm](https://www.jetbrains.com/webstorm/)
 
