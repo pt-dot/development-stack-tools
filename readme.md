@@ -2,7 +2,7 @@
 
 Ini adalah panduan tentang development stack dan perangkat saja yang perlu dipasang di masing-masing PC untuk kebutuhan development DOT Indonesia di masing-masing divisi.
 
-Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack) untuk mengetahui stack dan layanan yang kami gunakan. 
+Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack) untuk mengetahui stack dan layanan yang kami gunakan.
 
 ---
 
@@ -62,6 +62,9 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Sequel Pro](https://www.sequelpro.com/) - MySQL Database management for Mac
 + [PHP Coding Standards Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 + [Google Cloud SDK](https://cloud.google.com/sdk/) - Perangkat untuk mengelola Google Cloud Platform
++ [SQL Pro Studio](https://www.sqlprostudio.com/) - (MySQL, MSSQL, Postgres, SQLite) Database management for Mac
++ [Laravel Nova](https://nova.laravel.com/) (Premium) - Beautifully Admin Panel
++ [Laravel Nova Packages](https://novapackages.com/) - Support package for laravel nova
 + [XAMPP](https://www.apachefriends.org/index.html) or [WAMP](https://bitnami.com/stack/wamp/installer) - Windows local server
 + [DataGrip](https://www.jetbrains.com/datagrip/) - JetBrains Database IDE for SQL developers
 + [DBeaver](https://dbeaver.io/) - Free multi-platform database tool for developers
@@ -166,7 +169,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Figma](https://www.figma.com) - UI UX Design Toolkit (Free)
 + [Adobe XD](https://www.adobe.com/sea/products/xd.html) - UI UX Design Toolkit
 + [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html) - Design / Photo manipulation
-+ [overflow](https://overflow.io) - User flows 
++ [overflow](https://overflow.io) - User flows
 
 ---
 
