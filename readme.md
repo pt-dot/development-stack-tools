@@ -111,6 +111,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Firebase Test Lab](https://firebase.google.com/docs/test-lab/) Mobile device testing
 + [Sentry.io](https://sentry.io/) Error reporting
 + [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/), [Lighthouse](https://developers.google.com/web/tools/lighthouse/) Page speed test
++ [Cypress JS](https://www.cypress.io/) E2E Browser Test
 
 ### Tools & IDE
 
@@ -119,11 +120,14 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [JMeter](https://jmeter.apache.org/)
 + [Sublime Text](https://www.sublimetext.com/)
 + [Jenkins](https://jenkins.io/)
++ [Visual Studio Code](https://code.visualstudio.com/)
 
 ### Documents
 
++ Test Plan
 + User Story
 + Test Scenario / Test Case
++ Test Reporting
 + Manual Book
 + UAT Documents
 + TSD
