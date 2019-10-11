@@ -14,7 +14,8 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Gitlab Repository](https://gitlab.com)
 + [Google Drive](https://drive.google.com) - document management
 + [Git](https://git-scm.com/) - Distributed version control
-+ [SourceTree](https://www.sourcetreeapp.com/), [Gitkraken](https://www.gitkraken.com/) - Git client
++ [SourceTree](https://www.sourcetreeapp.com/) (Free) - Git client
++ [Gitkraken](https://www.gitkraken.com/) (Only Public Repositories) - Git client
 + [iTerm](https://www.iterm2.com/) - Terminal replacement untuk MacOS dan dapat diintegrasikan dengan [Z-Shell](https://ohmyz.sh/) agar lebih interaktif
 + [Homebrew](https://brew.sh/) - Package manager untuk macOS
 + [Spotify](https://www.spotify.com/id/) - Pemutar musik online (jangan lupa bahagia :D)
