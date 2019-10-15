@@ -34,6 +34,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Laravel Server Requirement](https://laravel.com/docs/master#server-requirements)
 + [Postman](https://www.getpostman.com/) - API Development & testing environment
 + [Putty](https://www.putty.org/) - ssh client windows
++ [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework)
 
 #### Frontend
 + [Webpack](https://webpack.js.org/) - Static module bundler
@@ -73,7 +74,8 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 
 ### Tools & IDE
 
-+ Free Editor:
++ Free Editor: 
+  + [Visual Studio](https://visualstudio.microsoft.com),
   + [Visual Studio Code](https://code.visualstudio.com/),
   + [Sublime Text](https://www.sublimetext.com/) (Freemium),
   + [Vim](https://www.vim.org/)
