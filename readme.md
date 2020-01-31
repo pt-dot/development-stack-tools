@@ -154,6 +154,7 @@ Kunjungi [DOT Stacks (Stackshare.io)](https://stackshare.io/dot-indonesia/stack)
 + [Adobe XD](https://www.adobe.com/sea/products/xd.html) - UI UX Design Toolkit
 + [Adobe Photoshop](https://www.adobe.com/sea/products/photoshop.html) - Design / Photo manipulation
 + [overflow](https://overflow.io) - User flows 
++ [Whimsical](https://whimsical.com/) - The Visual Workspace (Flowchart, Wireframe, Sticky Note, Mind Map)
 
 ---
 
